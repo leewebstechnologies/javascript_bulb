@@ -1,0 +1,14 @@
+.bulb {
+    width: 100px;
+    height: 180px;
+}
+
+button {
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
